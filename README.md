@@ -19,7 +19,7 @@ Selecionado no Programa ENTRA21 - 2022 no curso de Análise de Dados com Python.
 
 Possuo mais de 12 anos de experiência na área de TI, atuo na manutenção de hardware e software em plataformas Windows e Linux. Graduado em Gestão Pública e pós-graduado em Estrutura e Gestão de Redes de Computadores. 
 
-Atualmente se aprofundando na área de análise de dados e programação utilizando a linguagem Python.
+Atualmente ingressando na área de análise de dados e programação utilizando a linguagem Python.
 
 Nas horas vagas sou astrônomo amador na BRAMON, Brazilian Meteor Observation Network (Rede Brasileira de Monitoramento de Meteoros). 
   
@@ -29,22 +29,13 @@ Nas horas vagas sou astrônomo amador na BRAMON, Brazilian Meteor Observation Ne
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
-- ✅ Análise de Dados  
-  
+- ✅ Análise de Dados    
 
-- ✅ Certificação Google IT Automation with Python pela Google no Coursera   
-  
+- ✅ Certificação Google IT Automation with Python pela Google no Coursera     
 
 - ✅ Estrutura e Gestão de Redes de Computadores  
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -69,17 +60,7 @@ Nas horas vagas sou astrônomo amador na BRAMON, Brazilian Meteor Observation Ne
 ## Github Stats  
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=jocimarjustino&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jocimarjustino&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 60%" />
   
-
-<br/>  
-
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=jocimarjustino&&style=flat-square" align="right" />
-</div>  
-  
-
-<br/>  
-
 
 <br />
