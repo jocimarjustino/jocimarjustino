@@ -62,6 +62,7 @@ Meteor Observation Network (Rede Brasileira de Monitoramento de Meteoros).
 
 ## Languages and Tools
 
+<div align="center">
   <a href="https://www.mysql.com/" target="_blank"
     ><img
       style="margin: 10px"
