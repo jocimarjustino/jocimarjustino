@@ -28,7 +28,7 @@ Nas horas vagas sou astrônomo amador na BRAMON, Brazilian Meteor Observation Ne
 <br/>  
 
 
-## Rapidfire  
+## Cursos
 
 - ✅ Análise de Dados    
 
