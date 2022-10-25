@@ -33,15 +33,30 @@ Meteor Observation Network (Rede Brasileira de Monitoramento de Meteoros).
 
 ## Cursos 
 
-- ✅ Análise de Dados 
-- ✅ Certificação Google IT Automation with Python pela Google no Coursera 
-- ✅ Automating Real-World Tasks with Python 
-- ✅ Configuration Management and the Cloud
-- ✅ Troubleshooting and Debugging Techniques
-- ✅ Introduction to Git and GitHub 
-- ✅ Using Python to Interact with the Operating System 
-- ✅ Crash Course on Python 
-- ✅ Estrutura e Gestão de Redes de Computadores
+- Análise de Dados ✅ 
+
+- Certificação Google IT Automation with Python pela Google no Coursera ✅ 
+  - Automating Real-World Tasks with Python 
+  - Configuration Management and the Cloud
+  - Troubleshooting and Debugging Techniques
+  - Introduction to Git and GitHub 
+  - Using Python to Interact with the Operating System 
+  - Crash Course on Python 
+
+- Estrutura e Gestão de Redes de Computadores ✅ 
+  - Administração de Redes
+  - Arquitetura e Práticas TCP/IP II e II
+  - Projeto Estruturado e Gerência de Redes
+  - Redes sem Fio
+  - Computação em Nuvem
+  - Segurança de Redes de Computadores  
+  - Matérias Eletivas:
+    - Arquitetura de TI e Modelo de Negócios
+    - Engenharia de Software
+    - Gestão da Tecnologia da Informação
+    - Gestão de Serviços de TI
+    - Análise de Custos
+    - Integração de Sistemas Legados
 
 <br />
 
